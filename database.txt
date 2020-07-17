@@ -1,0 +1,3 @@
+name,email,message
+sefsef, see, awfawf
+tlal@sk.sk, Michal, Cauko brasko
