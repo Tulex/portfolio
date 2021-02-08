@@ -29,7 +29,7 @@ fasteners==0.14.1
 filelock==3.0.12
 Flask==1.1.2
 future==0.18.2
-httplib2==0.14.0
+httplib2==0.19.0
 identify==1.4.21
 idna==2.8
 ipykernel==5.3.2
